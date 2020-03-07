@@ -1,0 +1,7 @@
+out/
+out/production/LessonSql_Ilya/
+*.class
+.idea/workspace.xml
+.idea/
+/.idea/
+target/
